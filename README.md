@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0001-two-sum) |
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
