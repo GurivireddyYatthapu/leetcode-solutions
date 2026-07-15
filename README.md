@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
