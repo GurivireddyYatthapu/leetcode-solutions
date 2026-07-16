@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
