@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
