@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2490-circular-sentence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2490-circular-sentence) |
+| [3110-score-of-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
