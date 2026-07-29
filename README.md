@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2490-circular-sentence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3110-score-of-a-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
