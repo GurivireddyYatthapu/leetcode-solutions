@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [3731-find-missing-elements](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
