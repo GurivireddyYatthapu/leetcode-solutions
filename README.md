@@ -170,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
