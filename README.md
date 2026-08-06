@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [2413-smallest-even-multiple](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
