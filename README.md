@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0605-can-place-flowers](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
