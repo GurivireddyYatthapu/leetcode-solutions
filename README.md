@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
