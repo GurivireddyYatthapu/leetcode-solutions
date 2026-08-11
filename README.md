@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0661-image-smoother](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0877-stone-game](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## String Matching
 |  |
