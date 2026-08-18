@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [3731-find-missing-elements](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [3731-find-missing-elements](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [3731-find-missing-elements](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
