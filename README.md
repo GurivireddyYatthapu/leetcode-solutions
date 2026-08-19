@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
+| [2418-sort-the-people](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
+| [2418-sort-the-people](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
+| [2418-sort-the-people](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [2418-sort-the-people](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
