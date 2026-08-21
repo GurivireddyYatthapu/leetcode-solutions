@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0877-stone-game](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0905-sort-array-by-parity](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0324-wiggle-sort-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0905-sort-array-by-parity](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
