@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0661-image-smoother) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0324-wiggle-sort-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
