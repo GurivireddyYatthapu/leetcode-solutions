@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2418-sort-the-people](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3110-score-of-a-string) |
