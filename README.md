@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 ## Simulation
 |  |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0169-majority-element) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -266,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2363-merge-similar-items) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
