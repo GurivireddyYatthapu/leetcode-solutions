@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1768-merge-strings-alternately](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2418-sort-the-people](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/3110-score-of-a-string) |
