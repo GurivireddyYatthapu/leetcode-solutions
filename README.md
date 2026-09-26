@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0561-array-partition](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0877-stone-game](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0877-stone-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0561-array-partition](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
