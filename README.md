@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Binary Search
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
