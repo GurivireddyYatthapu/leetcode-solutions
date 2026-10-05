@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0338-counting-bits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0877-stone-game) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2206-divide-array-into-equal-pairs](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Linked List
