@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0342-power-of-four) |
