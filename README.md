@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [1108-defanging-an-ip-address](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/GurivireddyYatthapu/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
